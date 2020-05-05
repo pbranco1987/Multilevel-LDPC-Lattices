@@ -1,8 +1,3 @@
-# Multilevel-LDPC-Lattices
-Construction and simulation of multilevel LDPC lattices with multistage decoding
-
----------
-
 # Multilevel LDPC Lattices
 
 This repository contains the source code for the results in the paper:
